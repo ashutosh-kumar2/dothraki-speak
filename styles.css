@@ -42,6 +42,7 @@ nav .link{
 main{
     margin: auto;
     max-width: var(--width-break);
+    padding:1rem;
 }
 
 .hero-img{
@@ -58,6 +59,7 @@ textarea{
     font-size: large;
     font-family: inherit;
     box-sizing: border-box;
+    padding:0rem 1rem;
 }
 
 button{
