@@ -95,6 +95,10 @@ footer{
     padding: 0.5rem;
 }
 
+.outer{
+    padding: 0rem 7rem;
+}
+
 footer p{
     max-width: var(--width-break);
     margin: auto;
