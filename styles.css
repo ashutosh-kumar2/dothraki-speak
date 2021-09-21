@@ -1,17 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
 
 *{
     box-sizing: border-box;
 }
 
 :root{
-    --primary: #93C5FD;
+    --primary: #34D399 ;
     --black: #333333;
     --width-break: 600px;
+    /* #93C5FD */
 }
 
 body{
-    font-family: Raleway, sans-serif;
+    font-family: 'Urbanist', sans-serif;
     margin: 0;
     color: var(--black);
 }
@@ -108,6 +109,8 @@ footer p{
 
 .social{
     padding: 1rem 0rem;
+    font-size: 1.4rem;
+    text-align: center;
 }
 
 .portfolio{
@@ -133,5 +136,4 @@ footer p{
     margin-top: 0.625rem;
 	width: 40px;
 	height: 40px;
-    border-radius: 25px;
 }
